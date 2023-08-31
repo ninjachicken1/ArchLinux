@@ -1,0 +1,7 @@
+dkms
+libva-utils
+linux-headers
+mesa
+nvidia
+nvidia-settings
+nvidia-tools
