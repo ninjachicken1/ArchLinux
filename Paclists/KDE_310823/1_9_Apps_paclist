@@ -10,6 +10,7 @@ yay
 octopi-notifier-frameworks
 timeshift-autosnap
 grub-btrfs
+inotify-tools
 pamac-nosnap
 autokey-gtk
 fsearch-git
