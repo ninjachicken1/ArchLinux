@@ -4,6 +4,8 @@ hunspell-en_GB
 hyphen-en
 libmythes
 mythes-en
+libreoffice-extension-languagetool
+jre8-openjdk
 gimp
 remmina
 vivaldi

@@ -10,3 +10,4 @@ mangohud
 gamescope
 replay-sorcery-git
 prismlauncher
+jre8-openjdk
