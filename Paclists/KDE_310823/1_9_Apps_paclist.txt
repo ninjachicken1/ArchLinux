@@ -15,3 +15,5 @@ autokey-gtk
 fsearch-git
 nomacs
 qdirstat
+librewolf
+librewolf-extension-plasma-integration
